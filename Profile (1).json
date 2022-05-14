@@ -1,0 +1,14 @@
+{
+  "name": {
+    "givenName": "Jr",
+    "familyName": "Gqin",
+    "formattedName": "Jr Gqin"
+  },
+  "displayName": "Jr Gqin",
+  "emails": [{
+    "value": "jr420gwin@gmail.com"
+  }],
+  "gender": {
+    "type": "male"
+  }
+}
